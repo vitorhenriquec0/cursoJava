@@ -21,7 +21,6 @@ mostrando os dados da conta após cada operação
 package secao9;
 
 import secao9.entities.Account;
-import secao9.entities.Product;
 
 import java.util.Scanner;
 import java.util.Locale;
